@@ -21,8 +21,16 @@ html, body {
   font-size: 16px;
 }
 
-h1, p {
+h1 {
   text-align: center;
+  font-weight: 8800;
+  font-size: 40px;
+}
+
+p {
+  text-align: left;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 div.hotspot {
@@ -69,31 +77,31 @@ div.modal div.inner {
   background-color: #000000;
 }
 
-#bananas {
+#hiv1 {
   right: 10%;
   top: 25%;
   background-color: #FFFF00;
 }
 
-#peaches {
+#hiv2 {
   right: 70%;
   top: 50%;
   background-color: #FFDAB9;
 }
 
-#grapes {
+#hiv3 {
   right: 10%;
   top: 70%;
   background-color: #32CD32;
 }
 
-#plums {
+#hiv4 {
   right: 50%;
   top: 15%;
   background-color: #FFBBFF;
 }
 
-#apples {
+#hiv5 {
   right: 35%;
   top: 10%;
   background-color: #FF0000;
