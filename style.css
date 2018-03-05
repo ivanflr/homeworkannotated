@@ -33,6 +33,12 @@ p {
   padding-right: 15px;
 }
 
+figcaption {
+  padding-top: 5px;
+  text-align: center;
+  font-size: 12px;
+}
+
 div.hotspot {
   position: relative;
   max-width: 980px;
@@ -78,9 +84,9 @@ div.modal div.inner {
 }
 
 #hiv1 {
-  right: 10%;
-  top: 25%;
-  background-color: #FFFF00;
+  right: 22%;
+  top: 50%;
+  background-color: #C0C0C0;
 }
 
 #hiv2 {
@@ -98,7 +104,7 @@ div.modal div.inner {
 #hiv4 {
   right: 50%;
   top: 15%;
-  background-color: #FFBBFF;
+  background-color: #5B92E5;
 }
 
 #hiv5 {
